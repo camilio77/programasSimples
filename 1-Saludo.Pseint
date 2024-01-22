@@ -1,0 +1,5 @@
+Algoritmo Saludo
+	Escribir 'ingrese el nombre'
+	Leer nom
+	Escribir 'Hola ', nom ,', ¿como estas?'
+FinAlgoritmo
